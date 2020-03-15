@@ -5,11 +5,6 @@
 In this repository you may find files with a rather peculiar programming language.
 The Secure AOS Software Language or shortened as SAOSSL works merely in Scratch and is designed for fun.
 
-## Branches
-
-- Master branch: Programs are stable.
-- Beta branch: Programs are not stable and should be executed with care.
-
 ## How to execute
 Scripts are currently able to be executed by following these simple steps:
 1. Open a file by choice
