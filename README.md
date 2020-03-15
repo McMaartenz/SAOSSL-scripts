@@ -7,9 +7,8 @@ The Secure AOS Software Language or shortened as SAOSSL works merely in Scratch 
 
 ## Branches
 
-- Master branch: Programs are stable
-- Beta branch: Programs are not stable and should be executed with care
-- h
+- Master branch: Programs are stable.
+- Beta branch: Programs are not stable and should be executed with care.
 
 ## How to execute
 Scripts are currently able to be executed by following these simple steps:
